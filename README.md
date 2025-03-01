@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annylasee
-- 👀 I’m interested in unity game developing.
-- 🌱 I’m currently learning unity and modern OOP programming languages such as C#
-- 💞️ I’m looking to collaborate on unity game modelling.
+- 👀 I’m interested in Unreal Engine game developing.
+- 🌱 I’m currently learning Unreal.
+- 💞️ I’m looking to collaborate on game modelling and animations
 - 📫 How to reach me : annylasee@gmail.com 
 - I read English(UK) Germany Japanese and Chinese(Simp)
 - or if you're Chinese : QQ: 854414522 
